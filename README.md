@@ -6,7 +6,7 @@
 
 4.[Поток команд- управляющие структуры](SemenyachenkoD_lab4.ipynb). 
 
-5.[Подпрограммы](SemenyachenkoD_lab5.ipynb).
+5.[Подпрограммы](SemenyachenkoD_lab5.ipynb). 
 
 6.[Вычислительная сложность алгоритмов]().
 
